@@ -1,0 +1,73 @@
+[
+  {
+    "url": "https://audio.jukehost.co.uk/vTRYaTEbpaYRCxiWGgL2S91mnOuMKfLw",
+    "title": "Guess I'll Never Know",
+    "artist": "TrackTribe",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "playlist": ["Chill"],
+    "genre": ["Jazz", "Folk", "Pop"],
+    "familyFriendly": true
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/priWy2vYsWODmQiM6KevNYVLpPJGPZGd",
+    "title": "Memories",
+    "artist": "Demo Artist",
+    "playlist": ["Instrumental"],
+    "genre": ["Classical", "Folk", "Pop"],
+    "familyFriendly": true
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/rSmGXxf0OJLipPwFRyvoFKodDOj5VuWf",
+    "title": "Anxiety",
+    "artist": "NEFFEX",
+    "artwork": "https://i1.sndcdn.com/artworks-iCqupgQNLXSjKspS-0CGreg-t500x500.jpg",
+    "playlist": ["Chill", "Instrumental", "Rap"],
+    "genre": ["Rap", "Hip Hop", "Electronic", "Pop"],
+    "familyFriendly": true
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ZLdoXNocDAcsgeq6QKtPRHyvlqslNbke",
+    "title": "As You Fade Away",
+    "artist": "NEFFEX",
+    "artwork": "https://i.ytimg.com/vi/JhUFfaArYk8/maxresdefault.jpg",
+    "playlist": ["Rap"],
+    "genre": ["Rap", "Hip Hop", "Pop"],
+    "familyFriendly": true
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/rZ9sshicVlki8Dnm95ps1eWhK95dYgKF",
+    "title": "Cattle",
+    "artist": "Telecasted",
+    "artwork": "https://i.ytimg.com/vi/rxmWdkluHJ0/maxresdefault.jpg",
+    "playlist": ["Chill"],
+    "genre": ["Indie", "Alternative Rock", "Pop"],
+    "familyFriendly": true
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Tn0JjUOFnQXt94p3CQCA4AkB3weF51Yf",
+    "title": "Changing",
+    "artist": "NEFFEX",
+    "artwork": "https://i1.sndcdn.com/artworks-ZaFhh1AQdO4hqdYb-ssYmcA-t500x500.jpg",
+    "playlist": ["Rap"],
+    "genre": ["Rap", "Hip Hop", "Pop Punk"],
+    "familyFriendly": true
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/cbMVQp4JGHhSNEeCqRjvieiigYpUaE0s",
+    "title": "Take Me Back",
+    "artist": "NEFFEX",
+    "artwork": "https://i1.sndcdn.com/artworks-yaXBlJOtjWvRcNnA-W6spcw-t500x500.jpg",
+    "playlist": ["Rap"],
+    "genre": ["Rap", "Hip Hop", "Pop"],
+    "familyFriendly": true
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/5MLu9yZCOGOCpf9yhdK4uitEv2CZ9fwx",
+    "title": "Sunny Days",
+    "artist": "Anno Domini Beats",
+    "artwork": "https://i1.sndcdn.com/artworks-fJ47RvWYE7weOhay-V5Qjyw-t500x500.jpg",
+    "playlist": ["Chill"],
+    "genre": ["Hip Hop", "R&B", "Country"],
+    "familyFriendly": true
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "sonar-presents-demo-api",
+  "version": "1.0.0",
+  "description": "Portfolio demo API for Sonar Presents",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --exec tsx src/app.ts",
+    "seed:demo": "tsx src/scripts/seed-demo-songs.ts"
+  },
+  "dependencies": {
+    "@clerk/express": "^1.7.60",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2",
+    "svix": "^1.84.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/node": "^25.0.3",
+    "nodemon": "^3.1.11",
+    "tsx": "^4.21.0",
+    "typescript": "~5.9.2"
+  }
+}

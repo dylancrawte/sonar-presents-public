@@ -1,0 +1,61 @@
+{
+  "expo": {
+    "name": "Sonar Presents (Demo)",
+    "slug": "sonar-presents-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/ios_appstore.png",
+    "scheme": "sonar-presents-demo",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": ["audio"],
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "bundleIdentifier": "com.example.sonar-presents-demo"
+    },
+    "android": {
+      "package": "com.example.sonarpresentsdemo",
+      "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "icon": "./assets/images/ios_appstore.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/ios_appstore.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/ios_appstore.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      "expo-secure-store",
+      "expo-localization"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
